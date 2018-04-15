@@ -1,4 +1,4 @@
-
+####################################-------------RANDOM SEED SHOULD BE WRITTEN IN THE FRONT----------------------
 # coding: utf-8
 
 # # Regularization
